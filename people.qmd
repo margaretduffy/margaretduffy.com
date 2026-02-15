@@ -1,0 +1,20 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+
+---
+
+<img src="headshot2022.jpg" alt="Headshot" style="width:179;height:224px;">
+
+### Margaret L. Duffy
+Assistant Professor\
+UC Davis\
+Land, Air, and Water Resources
+
+<a href="https://scholar.google.com/citations?user=GGHE5aMAAAAJ&hl=en&authuser=1" class="d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="LinkedIn" target="_blank"> <i class="bi bi-google" style="font-size: 1.5rem;"></i> Scholar </a>
+
+<a href="https://www.linkedin.com/in/margaret-duffy-9a48a9115/" class="d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="LinkedIn" target="_blank"> <i class="bi bi-linkedin" style="font-size: 1.5rem;"></i> LinkedIn </a>
+
+<a href="DuffyCV2026_v1.pdf" class="d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="CV" target="_blank"> <i class="bi bi-file-earmark-person" style="font-size: 1.5rem;"></i> CV </a>
