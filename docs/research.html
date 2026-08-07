@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>research – Margaret Duffy</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -36,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ef68171d37fc688e1e861330cc259c60.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f72727304d0dfdd6ceb2b82cbf05e449.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -129,14 +132,16 @@ Publications
 <p><em>Under Review</em> at Journal of Geophysical Research Atmospheres<br>
 <a href="https://essopenarchive.org/users/550217/articles/1349972-atmospheric-mechanisms-of-the-pattern-effect">Preprint</a></p>
 </section>
-<section id="is-the-high-ecs-in-cesm2-degrading-transient-climate-change-projections-over-the-21st-century" class="level4">
-<h4 class="anchored" data-anchor-id="is-the-high-ecs-in-cesm2-degrading-transient-climate-change-projections-over-the-21st-century">Is the high ECS in CESM2 degrading transient climate change projections over the 21st century?</h4>
-<p><em>Under Review</em> at Journal of Advances in Modeling Earth Systems<br>
-<a href="https://essopenarchive.org/users/550217/articles/1262413-is-the-high-ecs-in-cesm2-degrading-transient-climate-change-projections-over-the-21st-century">Preprint</a></p>
-</section>
 </section>
 <section id="section" class="level3">
-<h3 class="anchored" data-anchor-id="section">2025</h3>
+<h3 class="anchored" data-anchor-id="section">2026</h3>
+<section id="is-the-high-ecs-in-cesm2-degrading-transient-climate-change-projections-over-the-21st-century" class="level4">
+<h4 class="anchored" data-anchor-id="is-the-high-ecs-in-cesm2-degrading-transient-climate-change-projections-over-the-21st-century">Is the high ECS in CESM2 degrading transient climate change projections over the 21st century?</h4>
+<p>Duffy, M. L., I. R. Simpson, B. Medeiros, J. Zhu, C. S. McCluskey, A. R. Herrington, et al., 2026. Is the high ECS in CESM2 degrading transient climate change projections over the 21st century? Journal of Advances in Modeling Earth Systems, 18, e2025MS004967.&nbsp;<a href="https://doi.org/10.1029/2025MS004967">link</a></p>
+</section>
+</section>
+<section id="section-1" class="level3">
+<h3 class="anchored" data-anchor-id="section-1">2025</h3>
 <section id="decomposing-cloud-radiative-feedbacks-by-cloud-top-phase" class="level4">
 <h4 class="anchored" data-anchor-id="decomposing-cloud-radiative-feedbacks-by-cloud-top-phase">Decomposing Cloud Radiative Feedbacks By Cloud-Top Phase</h4>
 <p>Wall, C.J., D. Paynter, Y. Qin, M. Debolskiy, M. L. Duffy, T. Michibata, B. M. Duran, N. J. Lutsko, P-L Ma, B. Medeiros, T. Storelvmo, M.Zhao, 2025, Decomposing Cloud Radiative Feedbacks By Cloud-Top Phase, Journal of Climate, DOI: 10.1175/JCLI-D-24-0538.<br>
@@ -153,8 +158,8 @@ Publications
 <a href="https://doi.org/10.5194/acp-25-2123-2025">Link</a></p>
 </section>
 </section>
-<section id="section-1" class="level3">
-<h3 class="anchored" data-anchor-id="section-1">2024</h3>
+<section id="section-2" class="level3">
+<h3 class="anchored" data-anchor-id="section-2">2024</h3>
 <section id="the-interaction-between-climate-forcing-and-feedbacks" class="level4">
 <h4 class="anchored" data-anchor-id="the-interaction-between-climate-forcing-and-feedbacks">The interaction between climate forcing and feedbacks</h4>
 <p>Gettelman, A., T. Eidhammer, M.L. Duffy, D. McCoy, C. Song, D. Watson-Parris, 2024, The interaction between climate forcing and feedbacks, JGR Atmospheres, DOI: 10.1029/2024JD040857<br>
@@ -254,13 +259,14 @@ Publications
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

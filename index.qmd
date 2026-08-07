@@ -29,6 +29,6 @@ Atmospheric Dynamics and Climate Change
 
 <a href="https://www.linkedin.com/in/margaret-duffy-9a48a9115/" class="d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="LinkedIn" target="_blank"> <i class="bi bi-linkedin" style="font-size: 1.5rem;"></i> LinkedIn </a>
 
-<a href="DuffyCV2026_v1.pdf" class="d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="CV" target="_blank"> <i class="bi bi-file-earmark-person" style="font-size: 1.5rem;"></i> CV </a>
+<a href="DuffyCV2026_v2.pdf" class="d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="CV" target="_blank"> <i class="bi bi-file-earmark-person" style="font-size: 1.5rem;"></i> CV </a>
 :::
 

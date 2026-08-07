@@ -17,9 +17,10 @@ format:
 *Under Review* at Journal of Geophysical Research Atmospheres\
 <a href="https://essopenarchive.org/users/550217/articles/1349972-atmospheric-mechanisms-of-the-pattern-effect">Preprint</a> 
 
+### 2026
+
 #### Is the high ECS in CESM2 degrading transient climate change projections over the 21st century?
-*Under Review* at Journal of Advances in Modeling Earth Systems\
-<a href="https://essopenarchive.org/users/550217/articles/1262413-is-the-high-ecs-in-cesm2-degrading-transient-climate-change-projections-over-the-21st-century">Preprint</a> 
+Duffy, M. L., I. R. Simpson, B. Medeiros, J. Zhu, C. S. McCluskey, A. R. Herrington, et al., 2026. Is the high ECS in CESM2 degrading transient climate change projections over the 21st century? Journal of Advances in Modeling Earth Systems, 18, e2025MS004967.\ <a href="https://doi.org/10.1029/2025MS004967">link</a>
 
 ### 2025
 
