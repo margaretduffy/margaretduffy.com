@@ -11,7 +11,7 @@ format:
 ### Margaret L. Duffy
 Assistant Professor\
 University of Utah\
-Atmospheric Science
+Atmospheric Science\
 margaret dot duffy at utah dot edu
 
 <a href="https://scholar.google.com/citations?user=GGHE5aMAAAAJ&hl=en&authuser=1" class="d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="LinkedIn" target="_blank"> <i class="bi bi-google" style="font-size: 1.5rem;"></i> Scholar </a>
