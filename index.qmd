@@ -11,16 +11,12 @@ format:
 :::
 
 ::: text-center
-<h1>Margaret L. Duffy</h1>
+<h1>Atmospheric Dynamics and Climate Change </h1>
 
 <p class="lead">
-Atmospheric Dynamics and Climate Change
+Welcome to the Atmospheric Dynamics and Climate Change group at the University of Utah, led by Professor Margaret Duffy.
 </p>
 
-:::
-
-::: text-center
-<p>I study Earth's atmosphere and its response to climate change.</p>
 :::
 
 ::: {.d-flex .flex-column .align-items-center .gap-0 .mt-1}
