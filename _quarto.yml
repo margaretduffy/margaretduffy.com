@@ -23,5 +23,7 @@ website:
         href: people.qmd
       - text: Publications
         href: publications.qmd
+      - text: Opportunities
+        href: opportunities.qmd
         
 editor: source

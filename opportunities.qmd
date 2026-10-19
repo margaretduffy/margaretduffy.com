@@ -1,0 +1,11 @@
+---
+format:
+  html:
+    page-layout: full
+    toc: false
+
+---
+
+# Opportunities
+
+I'm recruiting a PhD student to begin fall 2027. If you're interested, please reach out to me by email. You can apply to the Atmsospheric Science graduate program at the University of Utah <a href="https://atmos.utah.edu/graduate/graduate-prospective.php">here</a>. If you can, I highly recommend prospective graduate students apply for the <a href="https://www.nsf.gov/funding/initiatives/grfpNSF">Graduate Research Fellowship</a>. An undergraduate degree in a relevant field (e.g. Atmospheric Science, Physics, Math, Computer Science, Engineering) and an excitement for climate science are required.
