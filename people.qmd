@@ -20,7 +20,7 @@ margaret 'dot' duffy 'at symbol' utah 'dot' edu
 
 <a href="DuffyCV2026_v2.pdf" class="d-inline-flex align-items-center gap-2 text-decoration-none" aria-label="CV" target="_blank"> <i class="bi bi-file-earmark-person" style="font-size: 1.5rem;"></i> CV </a>
 
-<img src="Londonrose_headshot.jpg" alt="Headshot" style="width:179;height:224px;">
+<img src="Londonrose_headshot.png" alt="Headshot" style="width:179;height:224px;">
 
 ### Londonrose Lee
 Undergraduate researcher\
